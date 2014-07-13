@@ -1,6 +1,6 @@
 #
-# Author:: Shamik (<shamik@native5.com>)
-# Cookbook Name:: n5-users
+# Author:: Shamik <shamik@native5.com>
+# Cookbook Name:: user
 # Resource:: add
 #
 # Copyright:: 2014 Native5 Software Pvt. Ltd.

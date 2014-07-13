@@ -1,5 +1,5 @@
 #
-# Author:: Shamik (<shamik@native5.com>)
+# Author:: Shamik <shamik@native5.com>
 # Cookbook Name:: user
 # Attribute:: default
 #
