@@ -27,7 +27,7 @@ default_action :add
 # Name attribute: username
 attribute :username,
     :kind_of => String,
-    :name_attribute => true, 
+    :name_attribute => true,
     :required => true,
     :regex => [ /^[a-zA-Z0-9_]*[a-zA-Z][a-zA-Z0-9_]*$/ ]
 
